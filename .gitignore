@@ -1,5 +1,6 @@
 devel/
 logs/
+/log/build_*
 build/
 bin/
 lib/
