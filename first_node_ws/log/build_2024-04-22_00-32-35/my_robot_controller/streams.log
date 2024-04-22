@@ -1,0 +1,33 @@
+[0.579s] Invoking command in '/home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/src/my_robot_controller': PYTHONPATH=/home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/prefix_override:/home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/build install --record /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[0.769s] running egg_info
+[0.769s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[0.769s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.769s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.770s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.770s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.770s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.770s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.771s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.772s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.772s] running build
+[0.772s] running build_py
+[0.772s] creating /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/build
+[0.772s] creating /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/build/lib
+[0.772s] creating /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.772s] copying my_robot_controller/__init__.py -> /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.772s] running install
+[0.772s] running install_lib
+[0.773s] creating /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.773s] copying /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.773s] byte-compiling /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.774s] running install_data
+[0.774s] creating /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/share/ament_index
+[0.774s] creating /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/share/ament_index/resource_index
+[0.774s] creating /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.774s] copying resource/my_robot_controller -> /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.774s] copying package.xml -> /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/share/my_robot_controller
+[0.774s] running install_egg_info
+[0.775s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.776s] running install_scripts
+[0.792s] writing list of installed files to '/home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/install.log'
+[0.820s] Invoked command in '/home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/prefix_override:/home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/build install --record /home/den/Documents/ROS2/ROS2_tutorial/first_node_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
