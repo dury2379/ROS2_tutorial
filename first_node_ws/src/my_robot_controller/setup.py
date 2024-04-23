@@ -20,11 +20,14 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "test_node = my_robot_controller.first_node:main"
+            "test_node = my_robot_controller.first_node:main",
             # test_node -- executabe of ros2
             # my_robot_controller -- pkg name
             # first_node -- file name
             # main -- function name
+            "draw_circle = my_robot_controller.draw_circle:main",
+            "pose_subscriber = my_robot_controller.pose_subscriber:main",
+            "turtle_controller = my_robot_controller.turtle_controller:main"
         ],
     },
 )
